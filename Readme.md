@@ -5,3 +5,8 @@ Impossible Spaces is an entry for the 2017 At&t VR/AR Hackathon. In Impossible S
 # At&t VR/AR Hackathon
 
 Hackathon was held at ExtraSlice in Bellevue, WA by AT&T from Feb 24th - 26th, 2017
+
+# Dependencies - Downloaded from the Unity Asset
+HTC Stereo Rendering
+Steam VR 1.2.1
+VRTK 3.0.1
